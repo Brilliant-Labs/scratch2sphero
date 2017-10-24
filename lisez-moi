@@ -1,0 +1,38 @@
+Veuillez svp lire ces instructions afin de controller un sphéro avec Scratch 1.4 
+
+Étape #1: Télécharger Scratch Offline version 1.4  https://scratch.mit.edu/scratch_1.4
+
+Étape #2: Installer Ruby sur votre ordi 
+        
+          Pour Mac: Faite une recherche pour "Terminal" (Command + espace ensuite tappez Terminal)
+          
+                    Une fois rendu sur la ligne de commande tapez ruby -v pour assurer que Ruby est installé
+                    
+                    (Ruby 2.0 devrais être installé sur Mac -> El Capitan, Yosemite, Mavericks, et macOS Sierra)
+                    Si non, veuillez svp visiter https://www.ruby-lang.org/en/documentation/installation
+                    
+                    
+          Pour Windows: Svp visiter https://rubyinstaller.org pour des instructions
+          
+          Pour Linux: Veuillez choisir votre version de Linux sur cette page: https://www.ruby-lang.org/en/documentation/installation/
+          
+Étape #3: Sur la ligne de commande tapez : sudo git clone https://github.com/champierre/scratch2sphero.git ou télécharger ou télécharger directement du projet 
+
+Étape #4: Jumeler le sphéro avec votre ordi
+
+Étape #5: Sur la ligne de commande tapez "ruby scratch2sphero.rb"
+
+Étape #6: Essayer l'exemple spheroCAHM.sb
+
+Étape #7: Visitez le README.md pour plus de renseignments 
+
+
+          
+          
+           
+                  
+ Pour une liste des noms de couleurs visitez https://www.w3schools.com/colors/colors_names.asp
+ 
+ Pour des exemples Linux visitez https://www.youtube.com/channel/UCZsdHjlOQuNbyh5zYLzcAHg
+ 
+ 
